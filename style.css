@@ -1,0 +1,9 @@
+/*
+CSS File for test website
+*/
+
+p{color:aqua}
+
+select{color:blue}
+
+input[type="button"]:hover{color:red}
