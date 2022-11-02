@@ -4,6 +4,11 @@ CSS File for test website
 
 p{color:aqua}
 
-select{color:blue}
+input[type="button"]{
+    transition: color 5s;
+    transition: background-color 1s;
+    color:cyan;
+    background-color:salmon;
+    }
 
-input[type="button"]:hover{color:red}
+input[type="button"]:hover{background-color:lightsalmon}
